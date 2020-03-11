@@ -1,0 +1,12 @@
+.wclicked{
+    width:200px;
+    height:200px;
+    background-color:pink;
+}
+
+#wnotclicked{
+    background-color:yellow;
+}
+
+
+
